@@ -6,8 +6,7 @@ Research Interest: Crowd Evacuation Simulation, Fire Spread, Urban Disasters
 - 📫 How to reach me https://github.com/Shyr0796
 
 【EDUCATION】 
-M.Sc.    Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 
-2022-2025 (expected)
+M.Sc.    Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 2022-2025 (expected)
 B.E    Civil Engineering, School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU), 2018-2022
 
 【INTERSHIP】
