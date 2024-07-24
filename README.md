@@ -1,5 +1,6 @@
 Chun Song
-- M.Sc student at Institute of Engineering Mechanics (IEM),Chinese Eeathquake Administration (CEA)       
+- M.E. student at Institute of Engineering Mechanics (IEM),Chinese Eeathquake Administration (CEA)       
+
 - Tel: (+86) 17761640796
 - songchun2307@gmail.com
 - NanGang district, Harbin, P.R. China            
@@ -7,7 +8,7 @@ Chun Song
 
 
 - 【EDUCATION】 
--  M.Sc.    Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 2022-2025 (expected)
+-  M.E.    Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 2022-2025 (expected)
 -  B.E    Civil Engineering, School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU), 2018-2022
 
 - 【INTERSHIP】
