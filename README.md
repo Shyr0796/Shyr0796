@@ -1,4 +1,4 @@
-                                  Chun Song(宋春)          
+                                              Chun Song(宋春)          
 - PhD admission to The Hong Kong University of Science and Technology (Guangzhou)
 
 - Tel: (+86) 17761640796
@@ -8,16 +8,16 @@
 
 【EDUCATION】
 -  PhD in Urban Governance and Design(Admitted 2025)
-   HongKong University of Science and Technology(Guangzhou)  (HKUST(GZ))
-   Expected Duration: 2025–2029
+-  HongKong University of Science and Technology(Guangzhou) (HKUST(GZ))
+-  Expected Duration: 2025–2029
    
 -  M.E. in Civil Engineering
-   Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA)
-   2022-2025(In Progress)
+-  Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA)
+-  2022-2025 (In Progress)
    
 -  B.E. in Civil Engineering
-   School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU)
-   2018-2022(Awarded)
+-  School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU)
+-  2018-2022 (Awarded)
 
 【INTERSHIP】
 -  2023 - 2025  Chongqing University Liyang Smart City Research Institute
