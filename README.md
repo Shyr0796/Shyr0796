@@ -8,7 +8,7 @@
 
 【EDUCATION】
 -  PhD in Urban Governance and Design (Admitted 2025), Hongkong University of Science and Technology(Guangzhou) (HKUST(GZ)), Expected Duration: 2025–2029
--  M.E. in Civil Engineering, nstitute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 2022-2025 (In Progress)
+-  M.E. in Civil Engineering, institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 2022-2025 (In Progress)
 -  B.E. in Civil Engineering, School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU), 2018-2022 (Awarded)
 
 【INTERSHIP】
