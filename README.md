@@ -7,17 +7,9 @@
 - Research Interest: Crowd Evacuation Simulation, Fire Spread, Urban Disasters，Reniforcement Learning, multi-Agent
 
 【EDUCATION】
--  PhD in Urban Governance and Design(Admitted 2025)
--  HongKong University of Science and Technology(Guangzhou) (HKUST(GZ))
--  Expected Duration: 2025–2029
-   
--  M.E. in Civil Engineering
--  Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA)
--  2022-2025 (In Progress)
-   
--  B.E. in Civil Engineering
--  School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU)
--  2018-2022 (Awarded)
+-  PhD in Urban Governance and Design(Admitted 2025), HongKong University of Science and Technology(Guangzhou) (HKUST(GZ)), Expected Duration: 2025–2029
+-  M.E. in Civil Engineering, nstitute of Engineering Mechanics, China Earthquake Administration (IEM, CEA), 2022-2025 (In Progress)
+-  B.E. in Civil Engineering, School of Civil Architecture and Engineering, Beijing Jiaotong University (BJTU), 2018-2022 (Awarded)
 
 【INTERSHIP】
 -  2023 - 2025  Chongqing University Liyang Smart City Research Institute
